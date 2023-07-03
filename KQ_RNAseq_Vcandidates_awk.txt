@@ -1,0 +1,2 @@
+ID	amount of W kmer	AWK value
+CD_V1_Sacc-polyscides-M_contig1	10813	180216.67
